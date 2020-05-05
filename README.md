@@ -5,3 +5,4 @@
 [大佬美化仓库](https://github.com/TaylorLottner/xiaobudian)
 ### 使用教程
 [教程地址](https://yremp.live/live2d)
+[本站地址](http://47.95.214.98/)
