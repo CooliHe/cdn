@@ -70,7 +70,6 @@
     }
     
   }
-  
   function loop() {
     requestAnimationFrame(loop);
     updateParticles();
