@@ -22,7 +22,7 @@ function bot_ui_ini() {
     var botui = new BotUI("hello-coolihe");
     botui.message.add({
         delay: 800,
-        content: "Hi, There👋"
+        content: "Hi, There"
     }).then(function () {
         botui.message.add({
             delay: 1100,
@@ -35,10 +35,10 @@ function bot_ui_ini() {
                 botui.action.button({
                     delay: 1600,
                     action: [{
-                        text: "然后呢？ 😃",
+                        text: "然后呢？",
                         value: "sure"
                     }, {
-                        text: "少废话！ 🙄",
+                        text: "少废话！",
                         value: "skip"
                     }]
                 }).then(function (a) {
