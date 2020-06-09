@@ -14,3 +14,10 @@
 ### Sakura分支主题Sakurairo
 [官方仓库](https://github.com/mirai-mamori/Sakurairo)
 [使用手册](https://asuhe.jp/daily/sakurairo-user-manual/)
+
+# 本站最新调整转入Typecho
+[青池の旧时光](https://www.coolive.top)
+[Typecho](http://typecho.org/)
+## Typecho新调整
+利用jsDelivr+Github引入静态资源
+
