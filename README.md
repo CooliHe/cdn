@@ -1,4 +1,5 @@
-# WordPress-Sakura主题修改说明
+# 本仓库说明：
+## WordPress-Sakura主题修改说明
 ## Sakura博客主题添加Live2D看板娘
 ### 网页添加lived看板娘
 ### 开源地址
@@ -14,3 +15,10 @@
 ### Sakura分支主题Sakurairo
 [官方仓库](https://github.com/mirai-mamori/Sakurairo)
 [使用手册](https://asuhe.jp/daily/sakurairo-user-manual/)
+
+## 本站最新调整转入Typecho
+[青池の旧时光](https://www.coolive.top)
+[Typecho](http://typecho.org/)
+## Typecho新调整
+利用jsDelivr+Github引入静态资源
+
